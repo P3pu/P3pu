@@ -1,16 +1,25 @@
-### Hi there 👋
+## Olá!Eu sou o Pedro Otavio 👋
+<div>
 
-<!--
-**P3pu/P3pu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrocxz_/)
+[![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-otavio-b2341220a/)
+[![social](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMs3ln954ia6r5cy5BoOZSw)
+<a href = "mailto:po82184@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-Here are some ideas to get you started:
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![P3pu's GitHub stats](https://github-readme-stats.vercel.app/api?username=P3pu&show_icons=true&theme=radical)
+</div>
+
+### Tecnologias que estou estudando 🖥️
+
+<div>
+ <img align="center" alt="dsouloficial-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="dsouloficial-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<div>
+
+![Snake animation](https://github.com/P3pu/P3pu/blob/output/github-contribution-grid-snake.svg)
+</div>
