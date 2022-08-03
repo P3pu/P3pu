@@ -1,4 +1,11 @@
 ## Olá!Eu sou o Pedro Otavio 👋
+
+<div align="center">
+  <a href="https://github.com/P3pu">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=P3pu&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3pu&theme=dracula&hide_border=false&&layout=compact"/>
+
+
 <div>
 
 [![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrocxz_/)
@@ -9,8 +16,6 @@
 
 <div>
 
-![P3pu's GitHub stats](https://github-readme-stats.vercel.app/api?username=P3pu&show_icons=true&theme=radical)
-</div>
 
 ### Tecnologias que estou estudando 🖥️
 
@@ -23,3 +28,4 @@
 
 ![Snake animation](https://github.com/P3pu/P3pu/blob/output/github-contribution-grid-snake.svg)
 </div>
+
